@@ -32,9 +32,10 @@
         ];
 
         CartCtrl.catalogue=[
-          {img: 'assets/coffee.jpg', english:'Sedan', Millage:'300000km', price: 'sh2000000', country:'Kenya', promo_type:'', promo_detail: ''}
-          ,{img: 'assets/mocha.jpg', english:'Suv',Millage:'210000km', price: 'sh550000', country:'Kenya', promo_type:'', promo_detail: ''}
-          ,{img: 'assets/coffee.jpg', english:'Truck'  price: 'sh2000000', country:'Kenya', promo_type:'', promo_detail: ''}
+          {img: 'So99148.github.IO/carseller/webassignment/assets/105-11330.jpeg', english:'Sedan', Millage:'3000km', price: 'sh2000000', country:'Kenya', promo_type:'', promo_detail: ''}
+          ,{img: 'So99148.github.IO/carseller/webassignment/assets/216716_New_Volvo_XC40_exterior.0.jpg', english:'Volvo',Millage:'21000km', price: 'sh550000', country:'Kenya', promo_type:'', promo_detail: ''}
+          ,{img: 'So99148.github.IO/carseller/webassignment/assets/Isuzu-NPR-45-55-155-Tipper-2017.jpg', english:'Isuzu canter',Millage:'10000'  price: 'sh2000000', country:'Kenya', promo_type:'', promo_detail: ''}
+            ,{img: 'So99148.github.IO/carseller/webassignment/assets/2006_Toyota_Mark-X_01.jpg', english:'Toyota mark x', price:'1800000', country:'kenya',promo_type:'',promo_detail:''}
           //extend this according to your product needs                
         ];
         
